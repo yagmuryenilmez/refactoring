@@ -23,5 +23,3 @@ public class Invoice {
         return performances;
     }
 }
-
-
